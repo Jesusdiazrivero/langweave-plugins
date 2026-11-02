@@ -1,0 +1,11 @@
+{
+  "name": "langweave",
+  "version": "0.1.0",
+  "description": "Weaves a target language into the model's replies, at the level this user can actually read.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "langweave": {
+      "httpUrl": "https://api.langweave.tech/mcp"
+    }
+  }
+}

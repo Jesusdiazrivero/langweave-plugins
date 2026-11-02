@@ -1,0 +1,30 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "langweave",
+  "description": "Weaves a target language into the model's replies, at the level this user can actually read.",
+  "owner": {
+    "name": "Jesus Diaz Rivero",
+    "url": "https://langweave.tech"
+  },
+  "plugins": [
+    {
+      "name": "langweave",
+      "source": "./plugins/langweave",
+      "description": "Weaves a target language into the model's replies, at the level this user can actually read.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Jesus Diaz Rivero",
+        "url": "https://langweave.tech"
+      },
+      "homepage": "https://langweave.tech",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "language-learning",
+        "vocabulary",
+        "translation",
+        "mcp"
+      ]
+    }
+  ]
+}

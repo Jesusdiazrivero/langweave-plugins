@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "langweave",
+  "description": "Weaves a target language into the model's replies, at the level this user can actually read.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jesus Diaz Rivero",
+    "url": "https://langweave.tech"
+  },
+  "homepage": "https://langweave.tech",
+  "repository": "https://github.com/Jesusdiazrivero/langweave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "language-learning",
+    "vocabulary",
+    "translation",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://langweave.tech/privacy"
+}

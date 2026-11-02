@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "langweave": {
+      "type": "http",
+      "url": "https://api.langweave.tech/mcp"
+    }
+  }
+}
